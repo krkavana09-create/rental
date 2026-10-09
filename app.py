@@ -5,7 +5,7 @@ import joblib
 
 import joblib
 
-MODEL_PATH = r"C:\Users\krkav\Desktop\rental listing\RentModel_new.joblib"
+MODEL_PATH = "RentModel_new.joblib"
 
 model = joblib.load(MODEL_PATH)
 
